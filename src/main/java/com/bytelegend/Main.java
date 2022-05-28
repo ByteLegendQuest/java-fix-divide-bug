@@ -2,6 +2,8 @@ package com.bytelegend;
 
 public class Main {
     public static double divide(int a, int b) {
+        double a = a;
+        double b = b;
         return a / b;
     }
 
