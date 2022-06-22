@@ -1,8 +1,8 @@
 package com.bytelegend;
 
 public class Main {
-    public static double divide(float a, float b) {
-        double result = (float) a / b;
+    public static float divide(float a, float b) {
+        float result = (float)a / b;
         return result;
     }
 
