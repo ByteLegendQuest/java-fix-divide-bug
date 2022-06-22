@@ -2,7 +2,8 @@ package com.bytelegend;
 
 public class Main {
     public static float divide(int a, int b) {
-        return (float) a / b;
+        float result = (float) a / b;
+        return result;
     }
 
     public static void main(String[] args) {
