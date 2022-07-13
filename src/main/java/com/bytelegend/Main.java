@@ -1,10 +1,8 @@
 package com.bytelegend;
 
-import java.lang.Math.*;
-
 public class Main {
     public static double divide(int a, int b) {
-        return Math.divide( a , b ) ;
+        return (double) a / (double) b;
     }
 
     public static void main(String[] args) {
