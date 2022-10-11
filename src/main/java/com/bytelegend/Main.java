@@ -1,7 +1,7 @@
 package com.bytelegend;
 
 public class Main {
-    public static double divide(double a, double b) {
+    public static double divide(int a, int b) {
         return a*1.0 / b;
     }
 
