@@ -2,7 +2,7 @@ package com.bytelegend;
 
 public class Main {
     public static double divide(int a, int b) {
-        return new Double(a) / new Double(b);;
+        return new Double(a) / new Double(b);
     }
 
     public static void main(String[] args) {
