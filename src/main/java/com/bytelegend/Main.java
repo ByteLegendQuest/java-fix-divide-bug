@@ -2,8 +2,7 @@ package com.bytelegend;
 
 public class Main {
     public static double divide(int a, int b) {
-        double c = a + 0.0;
-        return c / b;
+        return a / b;
     }
 
     public static void main(String[] args) {
