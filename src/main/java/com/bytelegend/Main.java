@@ -1,8 +1,9 @@
 package com.bytelegend;
 
 public class Main {
-    public static double divide(double a, double b) {
-        return a / b;
+    public static double divide(int a, int b) {
+        double c = a + 0.0;
+        return c / b;
     }
 
     public static void main(String[] args) {
